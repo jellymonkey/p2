@@ -13,6 +13,5 @@ public class Sample {
         String date_str = String.format("Today is %s", new Date());
         System.out.println(date_str);
         System.out.println(args[0]);
-
     }
 }
